@@ -18,6 +18,8 @@ Features:
 * 🧠 RAG: Uses local PDF notes for accurate JEE theory.
 * 🛡️ Verifier Loop: Multi-step reasoning with human-in-the-loop.
 
+![Math Mentor Flowchart] (math-mentor-agent/assets/flowchart.png)
+
 =========================================================
 📂 FOLDER STRUCTURE
 =========================================================
